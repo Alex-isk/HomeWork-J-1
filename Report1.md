@@ -27,13 +27,12 @@
 * Фактический результат:
 
 Соответствует ОР.
-Осуществляется переход на сайт adoptopenjdk.net
+Осуществляется переход на сайт [adoptopenjdk.net](https://adoptopenjdk.net/) 
 
-[Приложение](https://adoptopenjdk.net/) 
 
 2. ### Шаг ### 
 
-Выбрать опцию как на скриншоте (см. “Приложения”) и нажать на кнопку скачивания
+Выбрать опцию как на скриншоте (см. “Приложение №1”) и нажать на кнопку скачивания
 
 * Ожидаемый результат (ОР):
 
@@ -43,7 +42,9 @@
 
 Соответствует ОР
 
-[Приложение](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/pic/mac-adoptopenjdk.png)
+Приложение №1
+
+![image](https://user-images.githubusercontent.com/79845756/112013174-e3bb5080-8b3a-11eb-8fdf-b1f0c0fb9d1f.png)
 
 
 3. ### Шаг ###
@@ -60,7 +61,9 @@
 Соответствует ОР
 
 
-[Приложение](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/pic/mac-step1.png)
+Приложение №2
+
+![image](https://user-images.githubusercontent.com/79845756/112013339-05b4d300-8b3b-11eb-9d88-d352a7a263fa.png)
 
 
 4. ### Шаг ###
@@ -79,7 +82,9 @@
 Соответствует ОР
 
 
-[Приложение](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/pic/mac-step2.png)
+Приложение №3
+
+![image](https://user-images.githubusercontent.com/79845756/112013520-241ace80-8b3b-11eb-835d-fca399a6578c.png)
 
 
 5. ### Шаг ###
@@ -97,7 +102,9 @@
 Соответствует ОР
 
 
-[Приложение](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/pic/mac-step4.png) 
+Приложение №4
+
+![image](https://user-images.githubusercontent.com/79845756/112013622-3ac12580-8b3b-11eb-9522-8be05cb06029.png)
 
 
 6. ### Шаг ###
@@ -115,7 +122,9 @@
 Соответствует ОР
 
 
-[Приложение](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/pic/mac-step4.png)
+Приложение №5
+
+![image](https://user-images.githubusercontent.com/79845756/112013721-50364f80-8b3b-11eb-8fe8-00dd3678163e.png)
 
 
 7. ### Шаг ###
@@ -136,7 +145,9 @@
 Соответствует ОР
 
 
-[Приложение](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/pic/mac-step5.png) 
+Приложение №6
+
+![image](https://user-images.githubusercontent.com/79845756/112013814-65ab7980-8b3b-11eb-99b5-bbff54cbf7e5.png)
 
 8. ### Шаг ###
 
@@ -161,7 +172,7 @@ OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.5+10, mixed mode)"
 
 ### В качестве тестовых данных использовались данные: ###
 
-[Приложение](https://adoptopenjdk.net/)
+сайт [adoptopenjdk.net](https://adoptopenjdk.net/) 
 
 ### Тестирование производилось в следующем окружении: ###
 
