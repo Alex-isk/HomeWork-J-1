@@ -15,7 +15,7 @@
 
 * *IntelliJ IDEA 2020.3.2 (Community Edition)*
  
-* *программый код Credit Card Number Validator:*
+* *программный код Credit Card Number Validator:*
 
 
 ```
